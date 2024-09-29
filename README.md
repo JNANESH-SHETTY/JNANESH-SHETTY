@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JNANESH-SHETTY
 - 👀 I’m interested in Data Analytics and Cloud Computing
-- 🌱 I’m currently learning Java and Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m upskilling in the Data Science Domain
+- 💞️ I like exploring data and gaining insights
 - 📫 You reach to me through- jnaneshshetty228@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
