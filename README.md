@@ -3,8 +3,6 @@
 - 🌱 I’m upskilling in the Data Science Domain
 - 💞️ I like exploring data and gaining insights
 - 📫 You reach to me through- jnaneshshetty228@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 JNANESH-SHETTY/JNANESH-SHETTY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
